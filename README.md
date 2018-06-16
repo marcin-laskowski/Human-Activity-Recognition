@@ -2,7 +2,7 @@
 Machine Learning | Unsupervised Learning | MultiLayer Perceptron
 
 <p align="center">
-  <img width="1000" src="https://github.com/mlaskowski17/Human-Activity-Recognition/blob/master/images/human_activity.png">
+  <img width="1000" src="https://github.com/mlaskowski17/Human-Activity-Recognition/blob/master/images/human_activity2.png">
 </p>
 
 ### General Overview
