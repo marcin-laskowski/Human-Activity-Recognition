@@ -1,6 +1,9 @@
 # Human Activity Recognition
 Machine Learning | Unsupervised Learning | MultiLayer Perceptron
 
+<p align="center">
+  <img width="1000" src="https://github.com/mlaskowski17/Human-Activity-Recognition/blob/master/images/human_activity.png">
+</p>
 
 ### General Overview
 The code is based on the Multilayer Perceptron approach to classify human activities dataset. It was implemented classifier to solve the problem at hand. Dataset is based on the human activity, which contains labeled recordings of four different activities collected from a smart phone accelerometer. The smart phone was worn in a trouser pocket. The accelerometer data (x,y,z acceleration) was collected at 20 Hz sample rate. The time-series were averaged into 3 dimensional data points that reflect the average accelerations over a 10 second-interval. Each data point has one of 4 possible classes: walking, jogging, walking upstairs, walking downstairs.
